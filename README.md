@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi I'm Priyanshu Singh
 
-<!--
-**Priyanshu-singh-hub/Priyanshu-singh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+💻 Java Full Stack Developer  
+🌱 Learning Spring Boot & MySQL  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Java
+- JDBC
+- SQL / MySQL
+- HTML, CSS, Bootstrap, JavaScript, React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Portfolio Website
+- Student Task Manager
+- Tic Tac Toe Game
+- Mobile Number Validator
+
+### 📫 Connect with me
+- Email: singhpriyanshu2472@gmail.com
+- GitHub: https://github.com/Priyanshu-singh-hub
+- LinkedIn: www.linkedin.com/in/priyanshu-fullstackjava
