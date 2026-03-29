@@ -13,9 +13,11 @@
 - Git & GitHub
 
 ### 📌 Projects
+- Bank Management System
+- Tic Tac Toe Web Game (PWA)
+- Expense Tracker Web Application 
 - Portfolio Website
 - Student Task Manager
-- Tic Tac Toe Game
 - Mobile Number Validator
 
 ### 📫 Connect with me
